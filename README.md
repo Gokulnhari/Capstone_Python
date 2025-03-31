@@ -16,7 +16,7 @@ The 'height' column was corrected by replacing its values with random numbers be
 
 ## Insights
 
-[C:\Users\gokul\Downloads\Telegram Desktop\Entri Elevate\Python\Capstone Project\Screenshot 2025-03-31 201347.png]
+[C:/Users/gokul/Downloads/Telegram Desktop/Entri Elevate/Python/Capstone Project/Screenshot 2025-03-31 201347.png]
 
 ## Additional Information
 
